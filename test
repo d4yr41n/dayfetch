@@ -1,0 +1,2 @@
+a=("$TERM" "$TERM")
+printf "%s\n" ${a[@]}
